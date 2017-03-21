@@ -11,3 +11,6 @@ Converting twx to json:
 
 Converting json to twx:
 `java -jar convertor.jar j2t inputFile.json outputFile.twx`
+
+### Download:
+ftp://rostorage.ptcnet.ptc.com/SHARE/Petrisor/Thingworx/smileUtils-1.0-SNAPSHOT-all.jar (use guest1:guest) 
